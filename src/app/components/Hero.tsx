@@ -1,7 +1,6 @@
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 
-const heroImg =
-  "https://maas-log-prod.cn-wlcb.ufileos.com/anthropic/bbcfad91-d0a6-44b8-be0c-fade2d896ee1/Consultorio_Elegante_Minimalista.jpeg?UCloudPublicKey=TOKEN_e15ba47a-d098-4fbd-9afc-a0dcf0e4e621&Expires=1772642142&Signature=VTPgrmeAwI9A6Umr/bjMAuwxdoo=";
+const heroImg = "/Consultorio_Elegante_Minimalista.jpeg";
 
 export function Hero() {
   return (
