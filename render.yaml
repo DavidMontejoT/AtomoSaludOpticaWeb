@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: atomosalud-web
+    env: static
+    buildCommand: npm install && npm run build
+    publishDir: dist
+    pullRequestPreviewsEnabled: true
+    envVars:
+      - key: NODE_VERSION
+        value: 20

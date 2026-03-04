@@ -8,7 +8,7 @@ const servicios = [
     ),
     title: "Examen Visual Completo",
     desc: "Evaluación integral de tu salud ocular con equipos de última generación. Detectamos miopía, astigmatismo, hipermetropía y patologías tempranas.",
-    highlight: "Desde $350 MXN",
+    highlight: "Desde $80,500 COP",
     accentColor: "#00F0FF",
   },
   {
